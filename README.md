@@ -1,6 +1,6 @@
 ## Myxelium Converged ISP Cloud Platform
 
-**Myxelium** is a multi-tenant, cloud-native platform that unifies **AAA, OSS/BSS, and device management** for Internet Service Providers. It provides a single control plane to manage subscribers, network access, CPEs, billing, and support operations at scale.
+**Myxelium** is a multi-tenant, cloud-native platform that unifies **AAA, OSS and BSS** for Internet Service Providers. It provides a single control plane to manage subscribers, network access, CPEs, billing, and support operations at scale.
 
 ---
 
